@@ -1,0 +1,15 @@
+{
+  "name": "pool_proxy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "json-forward.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jayson": "^2.0.5",
+    "web3-utils": "^1.0.0-beta.34"
+  }
+}
